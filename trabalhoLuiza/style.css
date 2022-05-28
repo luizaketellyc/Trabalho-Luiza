@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+th, tr {
+  border: 1px solid aliceblue;
+ 
+  text-align: center;
+}
+
+body {
+ 
+  background-image: url(img/imagemdefundo.jpg);
+}
+
+body {
+  text-decoration: none;
+  color: white;
+}
+
+table {
+  text-align: center;
+}
+
+thead, th, tr{
+  background-color: aliceblue;
+
+}
+th, tr{
+  color: black;
+}
